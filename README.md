@@ -1,6 +1,6 @@
 ## Snake-Fruit-Game
 
-Link : https://mthakur7.github.io/Snake-Fruit-Game/
+Link : 
 
 * The Snake game is a charming and simple challenge to play during downtime.
 
